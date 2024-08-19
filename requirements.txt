@@ -1,0 +1,10 @@
+langchain_community
+tiktoken
+langchain-cohere 
+langchainhub 
+chromadb 
+langchain 
+langgraph  
+tavily-python
+langchain_google_genai
+langchain_groq
